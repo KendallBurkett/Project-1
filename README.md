@@ -1,3 +1,3 @@
-# Project-1
+# Project Idea
 
-# Juan test. Craeting new branch and adding info to readme.
+This project demonstrates how to fetch financial data using the NASDAQ Data Link API, analyze the data using Pandas, and create visualizations with Matplotlib.
